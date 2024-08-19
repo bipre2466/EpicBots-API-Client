@@ -1,5 +1,3 @@
 module.exports = {
-
-    user: "USER ID"
-
+    token: "BOT TOKEN"
 }
