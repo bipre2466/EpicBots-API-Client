@@ -8,15 +8,15 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/bipre2466/EpicBots-API-Client-V1/issues">Rapporter une erreur</a>
+    <a href="https://github.com/bipre2466/EpicBots-API-Client-V1/issues">Report BUG</a>
     ·
-    <a href="https://github.com/bipre2466/EpicBots-API-Client-V1/issues">Demande de fonctionnalité</a>
+    <a href="https://github.com/bipre2466/EpicBots-API-Client-V1/issues">Request Function</a>
   </p>
 </p>
 <br />
 <br />
 
-## Fabriqué avec
+## Made With
 <!-- MADE WITH-->
 * [NodeJS](https://nodejs.org/en/)
 * [epicbots-prevnames](https://www.npmjs.com/package/epicbots-prevnames)
@@ -24,33 +24,34 @@
 
 ## Installation
 
-1. Cloner le repo
+1. Clone repo
    ```sh
    git clone https://github.com/bipre2466/EpicBots-API-Client.git
    ```
-2. Installer les packages NPM
+2. Install dependancies
    ```sh
    npm i
    ```
-3. Exécuter le fichier `index.js`
+3. Complete the configuration
+4. Start Bot
    ```sh
    node index.js
    ```
 <br />
 <br />
 
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Feuille de route
 
 Voir les [issues](https://github.com/bipre2466/EpicBots-API-Client-V1) pour une liste des fonctionnalités proposées (et des problèmes connus).
 <br />
 <br />
-<br />
+<br />-->
 
 <!-- CONTRIBUTING -->
-## Contribuant
+## Contributing
 
-Les contributions sont ce qui fait de la communauté open source un endroit incroyable pour apprendre, inspirer et créer. Toute contribution que vous faites est **grandement appréciée**.
+Any contribution you make is **greatly appreciated**.
 
 <!--1. Fork le projet
 2. Créez votre branche (`git checkout -b feature/AmazingFeature`)
@@ -62,16 +63,16 @@ Les contributions sont ce qui fait de la communauté open source un endroit incr
 <!-- LICENSE -->
 ## License
 
-Distribué sous la licence Apache 2.0. Voir `LICENSE` pour plus d'informations.
+Distributed under the Apache 2.0 license. See 'LICENSE' for more information.
 <br />
 <br />
 
 <!-- CONTACT -->
-## Contacter
+## Contact
 
 MrCat ツ - [@Misscat4411](https://github.com/Bipre2466) - cloudmrcat@gmail.com
 
-Lien du projet: [https://github.com/bipre2466/EpicBots-API-Client-V1](https://github.com/bipre2466/EpicBots-API-Client-V1)
+Link of the project: [https://github.com/bipre2466/EpicBots-API-Client-V1](https://github.com/bipre2466/EpicBots-API-Client-V1)
 
 <!-- DISCORD -->
 ## Discord
