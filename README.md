@@ -78,3 +78,6 @@ Link of the project: [https://github.com/bipre2466/EpicBots-API-Client-V1](https
 ## Discord
 
 MrCat ツ : justmrcat
+
+## Prewiew
+[![prewiew](https://cdn.discordapp.com/attachments/1251445141366116374/1275388515047178290/image.png?ex=66c5b59d&is=66c4641d&hm=354e3853c152ae1121332cd40c43a8ca37fa9aab0e9f507733f6178618363596&)]
