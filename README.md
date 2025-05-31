@@ -70,14 +70,14 @@ Distributed under the Apache 2.0 license. See 'LICENSE' for more information.
 <!-- CONTACT -->
 ## Contact
 
-MrCat ツ - [@Misscat4411](https://github.com/Bipre2466) - cloudmrcat@gmail.com
+MrCat ツ - [@Bipre2466](https://github.com/Bipre2466) - cloudmrcat@gmail.com
 
 Link of the project: [https://github.com/bipre2466/EpicBots-API-Client-V1](https://github.com/bipre2466/EpicBots-API-Client-V1)
 
 <!-- DISCORD -->
 ## Discord
 
-MrCat ツ : justmrcat
+MrCat ツ : just.mrcat
 
 ## Prewiew
 <img align="center" src="EPBC.png" width="100%"> 
