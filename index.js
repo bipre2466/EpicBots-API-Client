@@ -1,4 +1,3 @@
-// index.js
 const { Client, GatewayIntentBits, REST, Routes, SlashCommandBuilder, EmbedBuilder, ActivityType } = require('discord.js');
 const EpicBots = require('epicbots-prevnames');
 const config = require('./config.js');
